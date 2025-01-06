@@ -1,7 +1,7 @@
 # Tokokita
 
 ## Fitur
-1. **List Product**  
+1. **List Products**  
    Menampilkan semua produk yang tersedia dalam database.
 
 2. **Add Product**  
