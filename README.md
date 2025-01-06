@@ -14,7 +14,7 @@
    Menghapus produk dari database.
 
 ## Screenshots
-### List Product
+### List Products
 ![List Product](https://i.imgur.com/JhYs2i6.png)
 
 ### Add Product
